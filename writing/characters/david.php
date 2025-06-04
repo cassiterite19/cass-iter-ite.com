@@ -1,0 +1,17 @@
+<?php $title = "characters: David";?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/header.php';?>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
+            <header>
+                <h1><?php if($title){echo $title;}?></h1>
+            </header>
+            <section>
+                <article>
+                    <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ehmkruqiniunazquhf3njjun/bafkreidquwvipchk2qqgdudeo4pv4ey577u5qyqflgy7ocamizeuzguwha@jpeg" alt="a sketchbook drawing of a vampire with long dark hair." />
+                    <p>David is a vampire from present day Germany, he was born in 9CE. He is angsty as all vampires tend to be but he loves learning and has an unbreakable sense of wonder at the universe. (He loves the stars.) He listens to the band HIM because he is incapable of feeling shame. He is a talented artist and makes money doing art commissions for wealthy furries and other internet patrons.</p>
+                    <h3>stories:</h3>
+                    <ul>
+                        <li><a href="/writing/stories/01.php">the first story</a> (05/20/25)</li>
+                    </ul>
+                </article>
+            </section>
+<?php include $_SERVER['DOCUMENT_ROOT'].'/footer.php';?>
