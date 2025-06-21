@@ -10,6 +10,7 @@
                     <div>
                         <h2>links</h2>
                         <ul>
+                            <li><a href="https://otherkin.wiki/wiki/Extranthrope">The Otherkin Wiki page on Extranthrope</a> (read: 06/20/25)</li>
                             <li><a href="https://karlkerschl.com/how-i-built-my-own-patreon-alternative/">How I Built My Own Patreon Alternative</a> by Karl Kerschl (read: 06/16/25)</li>
                             <li><a href="https://www.geeknative.com/173767/checkmate-chatgpt-ai-schooled-by-50-year-old-atari/">Checkmate, ChatGPT: AI schooled by 50-year-old Atari</a> by Andrew Girdwood (read: 06/11/25)</li>
                             <li><a href="https://epochemagazine.org/41/berserk-metaphysics-on-the-idea-of-evil/">Berserk Metaphysics: On the Idea of Evil</a> by Antonio Wolf (read: 06/09/25)</li>
