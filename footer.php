@@ -1,7 +1,7 @@
             <section>
                 <article>
                     <p style="text-align:center;">
-                        <a href="/index.html"><img src="/img/88x31.png" alt="88x31 button that says cassiterite."></a>
+                        <a href="/"><img src="/img/88x31.png" alt="88x31 button that says cassiterite."></a>
                         <a href="https://badge.les.bi"><img title="enby fluid"  src="https://badge.les.bi/88x31/enby/fluid/diagonal/outset-invert.svg"></a>
                     </p>
                 </article>
