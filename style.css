@@ -167,7 +167,7 @@ body > footer a:visited {
 }
 a {
   color: #601090;
-  text-shadow: #444 1px 1px;
+  text-shadow: #444 .1px .1px;
 }
 a:visited {
   color: #671089;
