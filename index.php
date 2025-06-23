@@ -22,8 +22,8 @@
                     <div>
                         <h2>latest posts:</h2>
                         <ul>
-                            <li><a href="/writing/stories/03.php">why David hates the Romans</a> (posted 06/23/25)</li>
-                            <li><a href="/about/recentlyread.php">recently read</a> (last updated: 06/22/25)</li>
+                            <li><a href="/about/recentlyread.php">recently read</a> (last updated: 06/23/25)</li>
+                            <li><a href="/writing/stories/03.php">why David hates the Romans</a> (posted: 06/23/25)</li>
                             <li><a href="/writing/characters.php">characters</a> (last updated: 05/11/25)</li>
                             <li><a href="/websites/start.php">start page</a> (last updated: 02/13/25)</li>
                             <li><a href="/websites/head.php">you should put this in your &lt;head&gt; tag</a> (last updated: 10/05/24)</li>
