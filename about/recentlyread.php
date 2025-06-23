@@ -4,6 +4,7 @@
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
                 <p>these are links to pages, articles, and other web things i've read recently.</p>
+                <p>(Reading something does not imply that I agree with it.)</p>
             </header>
             <section>
                 <article>
