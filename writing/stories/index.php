@@ -9,6 +9,7 @@
                 <article>
                     <h3>david:</h3>
                     <ul>
+                        <li><a href="/writing/stories/03.php">why David hates the Romans</a> (06/13/25)</li>
                         <li><a href="/writing/stories/02.php">you don't even know my name</a>[NSFW] (06/01/25)</li>
                         <li><a href="/writing/stories/01.php">a minor hunt</a> (05/20/25)</li>
                     </ul>
