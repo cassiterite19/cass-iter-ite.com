@@ -25,11 +25,11 @@ body > header h1 {
 body > header a {
   text-decoration: none;
 }
-main {
+body > main {
   padding: 0.25em 1em;
   margin: 0.5em auto;
 }
-main h1 {
+body > main h1 {
   line-height: 1em;
 }
 main img{
@@ -130,7 +130,7 @@ body > footer {
   border-top: 1px solid #cc66ff;
 }
 
-main {
+body > main {
   background: #ffffee;
   color: #222;
   border: 3px solid #441166;
@@ -192,4 +192,9 @@ a.hover {
 .card li:last-of-type {
   border-bottom: 0px;
   padding-bottom: .1em;
+}
+
+/* Forum */
+.App {
+  overflow: hidden !important;
 }
