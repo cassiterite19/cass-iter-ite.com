@@ -24,7 +24,7 @@
                         <ul>
                             <li><a href="/about/recentlyread.php">recently read</a> (last updated: 06/23/25)</li>
                             <li><a href="/writing/stories/03.php">why David hates the Romans</a> (posted: 06/23/25)</li>
-                            <li><a href="/writing/characters.php">characters</a> (last updated: 05/11/25)</li>
+                            <li><a href="/writing/characters/index.php">characters</a> (last updated: 05/11/25)</li>
                             <li><a href="/websites/start.php">start page</a> (last updated: 02/13/25)</li>
                             <li><a href="/websites/head.php">you should put this in your &lt;head&gt; tag</a> (last updated: 10/05/24)</li>
                             <li><a href="/vgames/homm3.php">Heroes of Might and Magic 3</a> (last updated: 03/29/24)</li>
