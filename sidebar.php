@@ -11,7 +11,7 @@
                     <li><a href="/websites/head.php">your &lt;head&gt; tag</a></li>
                     <li><a href="/websites/start.php">start page</a></li>
 					<li><h3><a href="/writing/">writing</a></h3></li>
-                    <li><a href="/writing/characters.php">characters</a></li>
+                    <li><a href="/writing/characters/index.php">characters</a></li>
                     <li><a href="/writing/stories/">stories</a></li>
 					<li><h3><a href="/vgames/">video games</a></h3></li>
                     <li><a href="/vgames/homm3.php">homm3</a></li>
