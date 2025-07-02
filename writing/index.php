@@ -9,7 +9,7 @@
                 <article>
                     <div>
                         <ul>
-                            <li><a href="/writing/characters/index.php">Characters</a> (last updated: 05/11/25)</li>
+                            <li><a href="/writing/characters">Characters</a> (last updated: 05/11/25)</li>
                         </ul>
                     </div>
                 </article>
