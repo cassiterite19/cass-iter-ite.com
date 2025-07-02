@@ -11,6 +11,7 @@
                     <div>
                         <h2>links</h2>
                         <ul>
+                            <li><a href="https://www.youtube.com/watch?v=zG805GbNWN4">Nuclear Engineer Reacts to Bill Wurtz "history of the entire world, I guess"</a> by T. Folse Nuclear (watched: 07/02/25)</li>
                             <li><a href="https://rentry.co/what">what</a> by rentry (read: 06/23/25)</li>
                             <li><a href="https://blog.avas.space/future-online-creators/">the future of online creators</a> by ava (read: 06/22/25)</li>
                             <li><a href="https://otherkin.wiki/wiki/Extranthrope">The Otherkin Wiki page on Extranthrope</a> (read: 06/20/25)</li>

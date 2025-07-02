@@ -10,6 +10,7 @@
                     <p>Tara started out as an anthro catgirl fursona. She has since become a character I like to use in NSFW stories. She's a sex worker and bartender in her late 20s. She takes on more human forms in some of my stories, like the world with David.</p>
                     <h3>stories:</h3>
                     <ul>
+                        <li><a href="/writing/stories/05.php">we both need a hand</a> [NSFW] (07/02/25)</li>
                         <li><a href="/writing/stories/04.php">i just need a hand</a> [NSFW mentioned but not shown] (06/30/25)</li>
                         <li><a href="/writing/stories/02.php">you don't even know my name</a> [NSFW] (06/01/25)</li>
                     </ul>
