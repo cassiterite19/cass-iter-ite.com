@@ -23,6 +23,7 @@
                 <li><a href="https://www.twitch.tv/cassiterite19">twitch</a></li>
                 <li><a href="https://bsky.app/profile/cassiterite.bsky.social">bluesky</a></li>
             </ul>
+            <p><a href="https://onlinesequencer.net/1456420">Midi file from OnlineSequencer.net</a> and <a href="https://github.com/cifkao/html-midi-player">midi player from cifkao</a></p>
         </footer>
     </body>
 </html>
