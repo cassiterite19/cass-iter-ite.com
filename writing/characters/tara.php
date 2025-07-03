@@ -7,6 +7,7 @@
             <section>
                 <article>
                     <p><img src="tara.png" alt="a digital drawing of a catgirl with long green hair." /></p>
+                    <p><img src="tara_02.jpg" alt="a digital drawing of an orange catgirl with long black hair." /></p>
                     <p>Tara started out as an anthro catgirl fursona. She has since become a character I like to use in NSFW stories. She's a sex worker and bartender in her late 20s. She takes on more human forms in some of my stories, like the world with David.</p>
                     <h3>stories:</h3>
                     <ul>
