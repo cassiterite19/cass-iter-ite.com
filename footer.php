@@ -18,6 +18,12 @@
                 <article>
                       <div id="examphold" style="justify-content: center; align-items: center; display: flex; flex-direction: column;"><div><a href="" style="color: rgb(128, 0, 64); font-family: Verdana;">Original Fiction Webring</a></div><div id="ultrawebring" style="justify-content: center; padding-right: 4px; padding-left: 4px; display: flex;"><div id="wr_prev"><a href="https://ultrawebring.com/ring/webring.php?ringid=cassiterite-write&amp;siteid=cassiterite-write&amp;request=prev" style="color: rgb(128, 0, 64); font-family: Verdana;">Previous</a></div>|<div id="wr_next"><a href="https://ultrawebring.com/ring/webring.php?ringid=cassiterite-write&amp;siteid=cassiterite-write&amp;request=next" style="color: rgb(128, 0, 64); font-family: Verdana;">Next</a></div>|<div id="wr_random"><a href="https://ultrawebring.com/ring/webring.php?ringid=cassiterite-write&amp;request=random" style="color: rgb(128, 0, 64); font-family: Verdana;">Random</a></div>|<div id="wr_list"><a href="https://ultrawebring.com/ring/list.php?ringid=cassiterite-write" style="color: rgb(128, 0, 64); font-family: Verdana;">List</a></div>|<div id="wr_join"><a href="https://ultrawebring.com/ring/register.php?ringid=cassiterite-write" style="color: rgb(128, 0, 64); font-family: Verdana;">Join</a></div></div></div>
                 </article>
+                <article>
+                    <div id=OCverse>
+                        <script type=text/javascript src=https://zoranadragon.neocities.org/more/oc-webring/onionring-variables.js></script>
+                        <script type=text/javascript src=https://zoranadragon.neocities.org/more/oc-webring/onionring-widget-dark.js></script>
+                    </div>
+                </article>
             </section>
         </main>
         <footer>
