@@ -6,6 +6,7 @@
                     </p>
                 </article>
                 <article>
+                    <h3>webrings</h3>
                     <div id="webmasteringbtn"><a href="https://webmasterwebring.netlify.app?cass-previous">&lt;</a><a href="https://webmasterwebring.netlify.app"><img src="https://file.garden/ZrZSgsrYfQXsO7QH/ww/btn.png" width="88" height="31"></a><a href="https://webmasterwebring.netlify.app?cass-random" style="font-size: 1.5rem;">?</a> <a href="https://webmasterwebring.netlify.app?cass-next">&gt;</a></div>
                     <map name="noailong">
                         <area href="https://baccyflap.com/noai" target="_blank" shape="poly" coords="51,1,41,29,287,29,298,1" alt="no ai webring" title="no ai webring">
