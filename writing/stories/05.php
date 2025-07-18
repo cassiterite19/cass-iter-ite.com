@@ -4,9 +4,9 @@
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
                 <code>
-                    <p>NSFW, Vampire Sex, Biting, blowjob, PIV, Comfort Sex, Explicit Consent</p>
                     <p>Tara wakes up after crashing at David's house in A Mood, and after questioning her consent he obliges her.</p>
                     <p>This takes place after <a href="/writing/stories/04.php">i just need a hand</a>.</p>
+                    <p>NSFW, Vampire Sex, Biting, blowjob, PIV, Comfort Sex, Explicit Consent</p>
                     <p>[also found <a href="https://archiveofourown.org/works/67087573">on AO3</a>]</p>
                 </code>
             </header>

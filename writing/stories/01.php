@@ -4,8 +4,8 @@
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
                 <code>
-                    <p>murder but it's no big deal, Vampires</p>
                     <p>David has his dinner.</p>
+                    <p>murder but it's no big deal, Vampires</p>
                     <p>[also found <a href="https://archiveofourown.org/works/66170770">on AO3</a>]</p>
                 </code>
             </header>

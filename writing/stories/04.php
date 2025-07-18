@@ -4,8 +4,8 @@
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
                 <code>
-                    <p>hurt is over it's comfort time, Sex Work mentioned, nonconsensual violence mentioned, Vampires, Werewolves</p>
                     <p>David gets a roommate!</p>
+                    <p>hurt is over it's comfort time, Sex Work mentioned, nonconsensual violence mentioned, Vampires, Werewolves</p>
                     <p>[also found <a href="https://archiveofourown.org/works/67047868">on AO3</a>]</p>
                 </code>
             </header>

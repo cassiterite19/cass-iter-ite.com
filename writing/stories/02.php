@@ -4,8 +4,8 @@
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
                 <code>
-                    <p>NSFW: Rough Sex, Biting, Sex Work, Choking, Scratching, Mild Blood, Vampires, Vampire Bites, Vampire Sex</p>
                     <p>David and his escort friend have a little too much fun.</p>
+                    <p>NSFW: Rough Sex, Biting, Sex Work, Choking, Scratching, Mild Blood, Vampires, Vampire Bites, Vampire Sex</p>
                     <p>[also found <a href="https://archiveofourown.org/works/66114778">on AO3</a>]</p>
                 </code>
             </header>
