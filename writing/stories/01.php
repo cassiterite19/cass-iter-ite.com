@@ -3,11 +3,11 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
-                <pre>
+                <code>
                     <p>murder but it's no big deal, Vampires</p>
                     <p>David has his dinner.</p>
                     <p>[also found <a href="https://archiveofourown.org/works/66170770">on AO3</a>]</p>
-                </pre>
+                </code>
             </header>
             <section>
                 <article>

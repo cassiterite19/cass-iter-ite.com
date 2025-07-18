@@ -3,11 +3,11 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
-                <pre>
+                <code>
                     <p>NSFW: Rough Sex, Biting, Sex Work, Choking, Scratching, Mild Blood, Vampires, Vampire Bites, Vampire Sex</p>
                     <p>David and his escort friend have a little too much fun.</p>
                     <p>[also found <a href="https://archiveofourown.org/works/66114778">on AO3</a>]</p>
-                </pre>
+                </code>
             </header>
             <section>
                 <article>

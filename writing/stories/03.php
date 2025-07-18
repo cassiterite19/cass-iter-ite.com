@@ -3,11 +3,11 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
-                <pre>
+                <code>
                     <p>Vampires, torture and rape happen but not in a whole lot of detail, gladiator fights, Slavery</p>
                     <p>David did not have a very good time when he was kidnapped by the Romans, but it did turn him into a vampire.</p>
                     <p>[also found <a href="https://archiveofourown.org/works/66535180">on AO3</a>]</p>
-                </pre>
+                </code>
             </header>
             <section>
                 <article>

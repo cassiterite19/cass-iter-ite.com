@@ -3,11 +3,11 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
-                <pre>
+                <code>
                     <p>hurt is over it's comfort time, Sex Work mentioned, nonconsensual violence mentioned, Vampires, Werewolves</p>
                     <p>David gets a roommate!</p>
                     <p>[also found <a href="https://archiveofourown.org/works/67047868">on AO3</a>]</p>
-                </pre>
+                </code>
             </header>
             <section>
                 <article>
