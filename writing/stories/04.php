@@ -3,7 +3,11 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
-                <p></p>
+                <pre>
+                    <p>hurt is over it's comfort time, Sex Work mentioned, nonconsensual violence mentioned, Vampires, Werewolves</p>
+                    <p>David gets a roommate!</p>
+                    <p>[also found <a href="https://archiveofourown.org/works/67047868">on AO3</a>]</p>
+                </pre>
             </header>
             <section>
                 <article>
@@ -23,11 +27,6 @@
                     <p>She hugs me again, like she's grateful for my protection. I would never let anything happen to my friends if it was within my power to prevent.</p>
                     <p>We stay like that for a while, not talking. I rub her back intermittently. She cries again and tires herself out. She practically falls off me onto the futon. I move her bags so she can stretch out, and lay the blanket from the back onto her. She is already asleep.</p>
                     <p>I bring a glass of water from the kitchen and set it on the side table next to the futon, so she can have some when she wakes up. Then I go back to my book in the den. What an eventful night!</p>
-                </article>
-            </section>
-            <section>
-                <article>
-                    <p>[also found <a href="https://archiveofourown.org/works/67047868">on AO3</a>]</p>
                 </article>
             </section>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/footer.php';?>

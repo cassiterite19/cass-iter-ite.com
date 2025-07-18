@@ -3,7 +3,11 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
-                <p>murder but it's no big deal, Vampires</p>
+                <pre>
+                    <p>murder but it's no big deal, Vampires</p>
+                    <p>David has his dinner.</p>
+                    <p>[also found <a href="https://archiveofourown.org/works/66170770">on AO3</a>]</p>
+                </pre>
             </header>
             <section>
                 <article>
@@ -13,11 +17,6 @@
                     <p>I kill him quickly and throw the corpse over my shoulder. I jump to the roof of the bar and start navigating the city. My eyes linger on the monastery for a moment with an amused fondness. Then my attention turns to my favorite feeding ground, the oldest cemetery. I leap from building to building with this man's body, hoping he doesn't slip. I'm lucky my arms are so long. It makes this almost easy. I arrive on the cemetery grounds in short time.</p>
                     <p>I find my favorite place among the trees, across from the graves of Bullock and Randolf. The dogwood blossoms bounce in the wind and the moonlight shows their soft pink color to my heightened eyes. A perfect place for a picnic. I drink as deeply as I wish, and feel like the beautiful monster I am.</p>
                     <p>I respect the angst of the vampires who have not come to terms with their monstrosity. I used to be one of them. But I have moved beyond that limited way of thinking. I understand that what I do is no worse than what a human might do to a chicken, the only difference is that I only eat the chickens who are real assholes.</p>
-                </article>
-            </section>
-            <section>
-                <article>
-                    <p>[also found <a href="https://archiveofourown.org/works/66170770">on AO3</a>]</p>
                 </article>
             </section>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/footer.php';?>

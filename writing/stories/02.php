@@ -3,7 +3,11 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
-                <p>NSFW: Rough Sex, Biting, Sex Work, Choking, Scratching, Mild Blood, Vampires, Vampire Bites, Vampire Sex</p>
+                <pre>
+                    <p>NSFW: Rough Sex, Biting, Sex Work, Choking, Scratching, Mild Blood, Vampires, Vampire Bites, Vampire Sex</p>
+                    <p>David and his escort friend have a little too much fun.</p>
+                    <p>[also found <a href="https://archiveofourown.org/works/66114778">on AO3</a>]</p>
+                </pre>
             </header>
             <section>
                 <article>
@@ -16,11 +20,6 @@
                     <p>Leaning over her back, balls slapping her clit, I nibble her neck and say, "I've been biting you all night."</p>
                     <p>"No," she says, and reaches up to touch my fangs. "With these."</p>
                     <p>We've both been avoiding addressing them until now. I falter; I don't know if I want to do that. I try not to eat where I fuck. But she looks so good underneath me, with her massive ass pressed against my pelvis and her big gray eyes gazing up at me. And I know it'll feel good, it always feels good. I pump into her again and I know that I am lost. My head feels like it falls to meet her neck, and I bring my jaws together on her. Her skin tears beautifully beneath my assault, and I feel her pussy begin to seize around my cock. This gorgeous little princess is coming on me from being drank, and as the ecstasy of blood rushes down my throat, I do too.</p>
-                </article>
-            </section>
-            <section>
-                <article>
-                    <p>[also found <a href="https://archiveofourown.org/works/66114778">on AO3</a>]</p>
                 </article>
             </section>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/footer.php';?>

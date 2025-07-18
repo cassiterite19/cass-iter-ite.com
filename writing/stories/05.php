@@ -3,9 +3,12 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
-                <p>NSFW, Vampire Sex, Biting, blowjob, PIV, Comfort Sex, Explicit Consent</p>
-                <p>Tara wakes up after crashing at David's house in A Mood, and after questioning her consent he obliges her.</p>
-                <p>This takes place after <a href="/writing/stories/04.php">i just need a hand</a>.</p>
+                <pre>
+                    <p>NSFW, Vampire Sex, Biting, blowjob, PIV, Comfort Sex, Explicit Consent</p>
+                    <p>Tara wakes up after crashing at David's house in A Mood, and after questioning her consent he obliges her.</p>
+                    <p>This takes place after <a href="/writing/stories/04.php">i just need a hand</a>.</p>
+                    <p>[also found <a href="https://archiveofourown.org/works/67087573">on AO3</a>]</p>
+                </pre>
             </header>
             <section>
                 <article>
@@ -29,11 +32,6 @@
                     <p>I sigh contentedly. "Did you like that?"</p>
                     <p>She's crying again, but she nods against me. "Uh huh."</p>
                     <p>"Good," I say, and I kiss her hair. She deserves to feel good. She's a sweet girl whose only crime is loving the wrong people. I hold her close. We stay that way for a long time.</p>
-                </article>
-            </section>
-            <section>
-                <article>
-                    <p>[also found <a href="https://archiveofourown.org/works/67087573">on AO3</a>]</p>
                 </article>
             </section>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/footer.php';?>

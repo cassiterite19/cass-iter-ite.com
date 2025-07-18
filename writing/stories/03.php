@@ -3,7 +3,11 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
-                <p>Vampires, torture and rape happen but not in a whole lot of detail, gladiator fights, Slavery</p>
+                <pre>
+                    <p>Vampires, torture and rape happen but not in a whole lot of detail, gladiator fights, Slavery</p>
+                    <p>David did not have a very good time when he was kidnapped by the Romans, but it did turn him into a vampire.</p>
+                    <p>[also found <a href="https://archiveofourown.org/works/66535180">on AO3</a>]</p>
+                </pre>
             </header>
             <section>
                 <article>
@@ -18,11 +22,6 @@
                     <p>My change was difficult. I did not count the days - I would have lost them if I had tried. At one point they buried me, thinking me to have died. Well, I suppose I had. They did not expect me to dig my way up with new strength.</p>
                     <p>Then I did what anyone would have done.</p>
                     <p>I did not leave a single camp-follower alive.</p>
-                </article>
-            </section>
-            <section>
-                <article>
-                    <p>[also found <a href="https://archiveofourown.org/works/66535180">on AO3</a>]</p>
                 </article>
             </section>
 <?php include $_SERVER['DOCUMENT_ROOT'].'/footer.php';?>
