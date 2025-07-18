@@ -7,7 +7,7 @@
             </header>
             <section>
                 <article>
-                    <h3>david:</h3>
+                    <h3><a href="/writing/characters/david.php">david</a>:</h3>
                     <ul>
                         <li><a href="/writing/stories/05.php">we both need a hand</a> [NSFW] (07/02/25)</li>
                         <li><a href="/writing/stories/04.php">i just need a hand</a> [NSFW mentioned but not shown] (06/30/25)</li>
@@ -17,7 +17,7 @@
                     </ul>
                 </article>
                 <article>
-                    <h3>tara:</h3>
+                    <h3><a href="/writing/characters/tara.php">tara</a>:</h3>
                     <ul>
                         <li><a href="/writing/stories/05.php">we both need a hand</a> [NSFW] (07/02/25)</li>
                         <li><a href="/writing/stories/04.php">i just need a hand</a> [NSFW mentioned but not shown] (06/30/25)</li>
