@@ -7,8 +7,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>cassiterite</title>
         <link href="/style.css" rel="stylesheet" type="text/css" media="all">
-        <link rel="stylesheet" href="https://zoranadragon.neocities.org/more/oc-webring/onionring.css">
-        <script src="https://static.webring.gg/www/scripts/widget.js"></script>
     </head>
 	<body>
         <!-- The following needs to be inserted somewhere on the page for the player(s) to work. -->

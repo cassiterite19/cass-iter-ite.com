@@ -14,12 +14,7 @@
                         <area href="https://baccyflap.com/noai/?rnd" target="_top" shape="poly" coords="307,1,295,29,308,29,319,1" alt="random" title="random">
                         <area href="https://baccyflap.com/noai/?nxt&s=vml" target="_top" shape="poly" coords="327,0,316,30,359,15" alt="next" title="next">
                     </map>
-                    <img usemap="#noailong" src="https://baccyflap.com/noai/longwidget.gif" alt="a long purple-and-blue star-spangled bar with purple-and-blue white-haloed letters in it that read THE NO AI WEBRING. the bar extends into two arrows pointing left and right, labeled PREV and NEXT, and there's a little button labeled RANDOM"> 
-                    <div data-webringgg data-user="bWwzhte84nZv" data-verification="fUpC53l9JWdz"></div>
-                    <div id=OCverse>
-                        <script type=text/javascript src=https://zoranadragon.neocities.org/more/oc-webring/onionring-variables.js></script>
-                        <script type=text/javascript src=https://zoranadragon.neocities.org/more/oc-webring/onionring-widget-dark.js></script>
-                    </div>
+                    <img usemap="#noailong" src="https://baccyflap.com/noai/longwidget.gif" alt="a long purple-and-blue star-spangled bar with purple-and-blue white-haloed letters in it that read THE NO AI WEBRING. the bar extends into two arrows pointing left and right, labeled PREV and NEXT, and there's a little button labeled RANDOM">
                 </article>
             </section>
         </main>
