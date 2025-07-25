@@ -15,6 +15,16 @@
                         <area href="https://baccyflap.com/noai/?nxt&s=vml" target="_top" shape="poly" coords="327,0,316,30,359,15" alt="next" title="next">
                     </map>
                     <img usemap="#noailong" src="https://baccyflap.com/noai/longwidget.gif" alt="a long purple-and-blue star-spangled bar with purple-and-blue white-haloed letters in it that read THE NO AI WEBRING. the bar extends into two arrows pointing left and right, labeled PREV and NEXT, and there's a little button labeled RANDOM">
+                    <!-- Alterhuman Webring Webring Widget -->
+                    <div id="webring-affde78f-d102-42bc-83e6-fb771e71c79b"></div>
+                    <script>
+                        (function() {
+                            var script = document.createElement('script');
+                            script.src = 'https://jbvdjvgpccgsmmfqzisa.supabase.co/functions/v1/widget/affde78f-d102-42bc-83e6-fb771e71c79b';
+                            script.async = true;
+                            document.head.appendChild(script);
+                        })();
+                    </script>
                 </article>
             </section>
         </main>
