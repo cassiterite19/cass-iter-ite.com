@@ -26,6 +26,9 @@
                         })();
                     </script>
                 </article>
+                <article>
+                    <div id=OCverse><script type=text/javascript src=https://zoranadragon.neocities.org/more/oc-webring/onionring-variables.js></script><script type=text/javascript src=https://zoranadragon.neocities.org/more/oc-webring/onionring-widget-dark.js></script></div>
+                </article>
             </section>
         </main>
         <footer>
