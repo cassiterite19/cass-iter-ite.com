@@ -1,4 +1,5 @@
         <aside>
+            <div class="gfm-embed" data-url="https://www.gofundme.com/f/help-alexandra-stay-afloat-during-recovery/widget/medium?sharesheet=undefined&attribution_id=sl:7d3b90f1-cbe1-4361-a8b2-34d36289be68"></div><script defer src="https://www.gofundme.com/static/js/embed.js"></script>
             <nav>
 				<ul>
                     <li><h3><a href="/about/">about</a></h3></li>

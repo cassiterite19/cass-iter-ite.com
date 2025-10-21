@@ -12,6 +12,10 @@
                         <img src="david_02.jpg" alt="a drawing of a vampire with long dark hair in a fishnet shirt." />
                         <br/>Beautiful art commissioned from <a href="https://bsky.app/profile/gumbyghuleh.bsky.social">Jul</a>
                     </p>
+                    <p>
+                        <img src="david_04.png" alt="a drawing of a vampire with long dark hair looking over his shoulder. he's wearing a crop top over a fishnet top and jeans." />
+                        <br/>Stellar art gifted by <a href="https://bsky.app/profile/did:plc:yucuuw5few5tn2rgqopzhhpf">Jen</a>
+                    </p>
                     <p>David is a vampire from present day Germany, he was born in 9CE. He is angsty as all vampires tend to be but he loves learning and has an unbreakable sense of wonder at the universe. (He loves the stars.) He listens to the band HIM because he is incapable of feeling shame. He is a talented artist and makes money doing art commissions for wealthy furries and other internet patrons.</p>
                     <h3>stories:</h3>
                     <ul>
