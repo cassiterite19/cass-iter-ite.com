@@ -18,7 +18,7 @@
                     <li><a href="/vgames/homm3.php">homm3</a></li>
                     <li><h3><a href="https://cassiterite.atabook.org/">guestbook</a></h3></li>
                     <li><h3><a href="https://cassiterite.flarum.cloud/">forum</a></h3></li>
-                    <li><h3><a href="https://blog.cass-iter-ite.com">book blog</a></h3></li>
+                    <!-- <li><h3><a href="https://blog.cass-iter-ite.com">book blog</a></h3></li> -->
                     <li><h3><a href="https://cassiterite19.github.io/">website log</a></h3></li>
                     <li><h3><a href="https://cassiterite.leaflet.pub">weed thoughts</a></h3></li>
 				</ul>
