@@ -22,8 +22,8 @@
                     <div>
                         <h2>latest posts:</h2>
                         <ul>
+                            <li><a href="/about/recentlyread.php">recently read</a> (last updated: 10/25/25)</li>
                             <li><a href="/writing/stories/05.php">we both need a hand</a> [NSFW] (last updated: 07/02/25)</li>
-                            <li><a href="/about/recentlyread.php">recently read</a> (last updated: 07/02/25)</li>
                             <li><a href="/writing/stories/04.php">i just need a hand</a> [NSFW mentioned but not shown] (last updated: 06/30/25)</li>
                             <li><a href="/writing/characters/tara.php">Tara</a> (last updated: 06/30/25)</li>
                             <li><a href="/writing/characters/">characters</a> (last updated: 06/30/25)</li>

@@ -11,6 +11,7 @@
                     <div>
                         <h2>links</h2>
                         <ul>
+                            <li><a href="https://blog.giovanh.com/blog/2025/10/22/a-wholesome-plane-has-hit-the-second-cozy-tower/">a wholesome plane has hit the second cozy tower</a> by GiovanH (read: 10/25/25)</li>
                             <li><a href="https://scholarship.law.columbia.edu/faculty_scholarship/1281/">Network Neutrality, Broadband Discrimination</a> by <a href="https://en.wikipedia.org/wiki/Tim_Wu">Tim Wu</a> (read: 09/24/25)</li>
                             <li><a href="https://www.youtube.com/watch?v=tbCNUyDDIbM">Google Pixel 9 Pro (XL) Screen Not Responding to Touch? (SOLVED)</a> by Saunderverse (watched: 08/15/25)</li>
                             <li><a href="https://www.youtube.com/watch?v=zG805GbNWN4">Nuclear Engineer Reacts to Bill Wurtz "history of the entire world, I guess"</a> by T. Folse Nuclear (watched: 07/02/25)</li>
