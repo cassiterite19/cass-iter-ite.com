@@ -58,3 +58,13 @@ a:hover {
     color: #8B6550;
     background: #F07216;
 }
+body>header nav ul li a,
+body>header nav ul li a:visited {
+    color:#F07216;
+    background: #292929;
+    padding: 1em .5em;
+}
+body>header nav ul li a:hover {
+    color: #292929;
+    background: #F07216;
+}
