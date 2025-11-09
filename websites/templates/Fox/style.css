@@ -33,7 +33,9 @@ body>main {
     width: 70%;
     margin-left: 5%;
 }
-body>footer {}
+body>footer {
+    text-align: center;
+}
 
 /* Colors - feel free to play around here */
 html {
