@@ -1,4 +1,4 @@
-/* Structure */
+/* Structure - leave this alone unless you want to try new things */
 html {}
 body {
     width: 950px;
@@ -24,3 +24,12 @@ body>main {
     margin-left: 5%;
 }
 body>footer {}
+
+/* Colors - feel free to play around here */
+html {
+    background: #8B6550;
+}
+body {
+    background: rgba(9,9,9,.5);
+    color: #efefef;
+}
