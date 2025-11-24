@@ -39,6 +39,7 @@
                 <li><a href="https://www.tiktok.com/@cassiterite19">tiktok</a></li>
                 <li><a href="https://letterboxd.com/cassiterite/">letterboxd</a></li>
                 <li><a href="https://www.pinterest.com/ca55iterite/">pinterest</a></li>
+                <li><a href="https://userstyles.world/user/cassiterite">userstyles.world</a></li>
             </ul>
             <p><a href="https://onlinesequencer.net/1456420">Midi file from OnlineSequencer.net</a> and <a href="https://github.com/cifkao/html-midi-player">midi player from cifkao</a></p>
         </footer>
