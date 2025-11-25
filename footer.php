@@ -36,6 +36,7 @@
                 <li><a href="https://cassiterite.bearblog.dev">bearblog</a></li>
                 <li><a href="https://www.twitch.tv/cassiterite19">twitch</a></li>
                 <li><a href="https://bsky.app/profile/cassiterite.bsky.social">bluesky</a></li>
+                <li><a href="https://indieweb.social/@cassiterite">mastodon</a></li>
                 <li><a href="https://www.tiktok.com/@cassiterite19">tiktok</a></li>
                 <li><a href="https://letterboxd.com/cassiterite/">letterboxd</a></li>
                 <li><a href="https://www.pinterest.com/ca55iterite/">pinterest</a></li>
