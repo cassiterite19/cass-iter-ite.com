@@ -11,6 +11,11 @@
                         <h2>here's some stuff about me:</h2>
                         <p>my name is alexandra (you can call me alexi or cass if you want) early 30s, she/any pronouns, bi & enby woman, stoner, communist, loser, immortal, big nerd, crazy, heathen, <a href="/about/alterhuman.php">alterhuman</a>, doing my best.</p>
                     </div>
+                    <div class="banner">
+                        <h3>i am offering commissions through ko-fi!</h3>
+                        <p>if you want a bespoke HTML/CSS website template for your own site for just $5, consider commissioning me!</p>
+                        <p><a href="https://ko-fi.com/cassiterite/commissions">you can find me here on ko-fi!</a></p>
+                    </div>
                     <div><p>Check out my <a href="https://cassiterite.flarum.cloud/">forum</a>!</p></div>
                     <div>
                         <p><img src="/img/transrights.png" alt="A banner in pink, white, and blue that says 'Trans Rights'." width="200px"><img src="/img/commie.png" alt="A banner in red and gold with a hammer and sickle that says 'Capitalism cannot function without slavery.'" width="200px"><img src="/img/freepalestine.png" alt="A Palestinian flag, with stripes of black, white, and green, with a red triangle from the left. On the white stripe it says 'Free Palestine'." width="200px"></p>
