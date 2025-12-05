@@ -7,7 +7,7 @@ body {
 }
 body>header{}
 body>header img {
-    max-width: 500px;
+    max-width: 90%;
     max-height: 300px;
     display: block;
     margin: 0 auto;
@@ -19,26 +19,47 @@ body>header nav ul {
 body>header nav ul li {
     display: inline-block;
     padding-left: 5px;
+    margin: 1.5em auto;
 }
 body>header nav ul li:first-of-type {
     padding-left: 0px;
 }
-body>aside {
-    display: ineline-block;
-    vertical-align: top;
-    width: 25%;
+p {
+    line-height: 1.5em;
 }
-body>main {
-    display: ineline-block;
-    vertical-align: top;
-    width: 70%;
-    margin-left: 5%;
+body>aside img {
+    max-width: 90%;
 }
 body>footer {
     text-align: center;
     padding-bottom: 10px;
 }
-
+@media screen and (min-width: 800px) {
+  body>main {
+    display: inline-block;
+    vertical-align: top;
+    width: 70%;
+    padding: 1em .5em;
+  }
+  body>aside {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    padding: 1em .5em;
+  }
+}
+@media screen and (max-width: 800px) {
+    body>aside {
+        display: block;
+        width: 95%;
+        padding: 1em .5em;
+    }
+    body>main {
+        display: block;
+        width: 95%;
+        padding: 1em .5em;
+    }
+}
 /* Colors - feel free to play around here */
 html {
     background: #8B6550;
@@ -49,6 +70,7 @@ body {
 }
 a {
     color: #F07216;
+    background: rgba(0,0,0,.8);
     padding: .1em;
 }
 a:visited {
@@ -63,8 +85,16 @@ body>header nav ul li a:visited {
     color:#F07216;
     background: #292929;
     padding: 1em .5em;
+    border-radius: 10px;
 }
 body>header nav ul li a:hover {
     color: #292929;
     background: #F07216;
+}
+body>aside h3, body>main h1 {
+    width: 100%;
+    text-align: center;
+    color: #292929;
+    background: #F07216;
+    border-bottom: 3px solid #B83444;
 }
