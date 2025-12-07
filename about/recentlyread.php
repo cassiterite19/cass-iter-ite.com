@@ -3,6 +3,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1><?php if($title){echo $title;}?></h1>
+                <h3>Recently Read page has been retired. please see <a href="https://read.cass-iter-ite.com/index.php/">my new Recently Read page</a> to keep up with websites and articles I'm reading, and videos I'm watching.</h3>
                 <p>these are links to pages, articles, and other web things i've read recently.</p>
                 <p>(Reading something does not imply that I agree with it.)</p>
             </header>
