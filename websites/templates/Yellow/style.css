@@ -53,6 +53,10 @@ body>footer {
   }
 }
 @media screen and (max-width: 800px) {
+    body {
+        max-width: 95%;
+        margin: 1em auto;
+    }
     body>aside {
         display: block;
         width: 95%;
