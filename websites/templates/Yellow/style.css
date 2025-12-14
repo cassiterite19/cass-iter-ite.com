@@ -57,11 +57,16 @@ body>footer {
         display: block;
         width: 95%;
         padding: 1em .5em;
+        margin: 0 auto;
+    }
+    body>aside img {
+        text-align: center;
     }
     body>main {
         display: block;
         width: 95%;
         padding: 1em .5em;
+        margin: 0 auto;
     }
 }
 /* Colors - feel free to play around here */
