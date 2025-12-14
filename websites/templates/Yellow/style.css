@@ -60,7 +60,8 @@ body>footer {
         margin: 0 auto;
     }
     body>aside img {
-        text-align: center;
+        display: block;
+        margin: 0 auto;
     }
     body>main {
         display: block;
