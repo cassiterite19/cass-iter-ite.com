@@ -1,0 +1,104 @@
+/* Structure - leave this alone unless you want to try new things */
+html {}
+body {
+    width: 950px;
+    max-width: 95%;
+    margin: 1em auto;
+    border-radius: 15px;
+}
+body>header{
+    text-align: center;
+    padding-top: 1em;
+}
+body>header img {
+    max-width: 90%;
+    max-height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+body>header nav ul {
+    list-style: none;
+    text-align: center;
+}
+body>header nav ul li {
+    display: inline-block;
+    padding-left: 5px;
+    margin: 1.5em auto;
+}
+body>header nav ul li:first-of-type {
+    padding-left: 0px;
+}
+p {
+    line-height: 1.5em;
+}
+body>aside img {
+    max-width: 90%;
+}
+body>footer {
+    text-align: center;
+    padding-bottom: 10px;
+}
+@media screen and (min-width: 800px) {
+  body>main {
+    display: inline-block;
+    vertical-align: top;
+    width: 70%;
+    padding: 1em .5em;
+  }
+  body>aside {
+    display: inline-block;
+    vertical-align: top;
+    width: 25%;
+    padding: 1em .5em;
+  }
+}
+@media screen and (max-width: 800px) {
+    body>aside {
+        display: block;
+        width: 95%;
+        padding: 1em .5em;
+    }
+    body>main {
+        display: block;
+        width: 95%;
+        padding: 1em .5em;
+    }
+}
+/* Colors - feel free to play around here */
+html {
+    background: #292929;
+}
+body {
+    background: #FFF3BF;
+    color: #292929;
+}
+a {
+    color: #292929;
+    background: #FDE753;
+    padding: .1em;
+}
+a:visited {
+    background: #DF90A5;
+}
+a:hover {
+    color: #FDE753;
+    background: #292929;
+}
+body>header nav ul li a,
+body>header nav ul li a:visited {
+    background:#FDE753;
+    color: #292929;
+    padding: 1em .5em;
+    border-radius: 10px;
+}
+body>header nav ul li a:hover {
+    background: #292929;
+    color: #FDE753;
+}
+body>aside h3, body>main h1 {
+    width: 100%;
+    text-align: center;
+    color: #292929;
+    background: #FDE753;
+    border-bottom: 3px solid #DF90A5;
+}
