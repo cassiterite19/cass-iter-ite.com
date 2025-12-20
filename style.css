@@ -203,7 +203,7 @@ a.hover {
 .banner {
   background:rgba(56, 16, 96, .6);
   color: #ffdd66;
-  border-radius: 10% 15%;
+  border-radius: 10px 15px;
   border: 2px solid #ffdd66;
   padding: 1em .5em;
   text-align: center;

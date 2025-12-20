@@ -6,7 +6,7 @@
             </header>
             <section>
                 <article>
-                    <div>
+                    <div class="banner">
                         <p>I make music! It's electronic, dungeonsynth-y nonsense, and you can find it <a href="https://dunjunhexplorer.xyz">at dunjunhexplorer.xyz</a>.</p>
                     </div>
                 </article>
