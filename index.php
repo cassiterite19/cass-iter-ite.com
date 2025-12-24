@@ -1,50 +1,18 @@
-<?php include $_SERVER['DOCUMENT_ROOT'].'/header.php';?>
-<?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
-            <header>
-                <h1>hey what's up</h1>
-                <img align="right" width="100px" src="/img/avi.png" alt="A skull from the manga Berserk.">
-                <p>i'm an internet weirdo you may have encountered. this here's a space for me to put information you might want to know about me, as well as share projects i've been working on and links to other places you could find me.</p>
-            </header>
-            <section>
-                <article>
-                    <div>
-                        <h2>here's some stuff about me:</h2>
-                        <p>my name is alexandra (you can call me alexi or cass if you want) early 30s, she/any pronouns, bi & enby woman, stoner, communist, loser, immortal, big nerd, crazy, heathen, <a href="/about/alterhuman.php">alterhuman</a>, doing my best.</p>
-                    </div>
-                    <div class="banner">
-                        <h3>i am offering commissions through ko-fi!</h3>
-                        <p>if you want a bespoke HTML/CSS website template for your own site for just $5, consider commissioning me!</p>
-                        <p><a href="https://ko-fi.com/cassiterite/commissions">you can find me here on ko-fi!</a></p>
-                    </div>
-                    <div>
-                        <a href="https://dunjunhexplorer.bandcamp.com"><img src="https://cass-iter-ite.com/img/2026-EP01-nightmareprotocol-signature-500.png" alt="Nightmare Protocol: 01/01/2026" /></a>
-                    </div>
-                    <div><p>Check out my <a href="https://cassiterite.flarum.cloud/">forum</a>!</p></div>
-                    <div>
-                        <p><img src="/img/transrights.png" alt="A banner in pink, white, and blue that says 'Trans Rights'." width="200px"><img src="/img/commie.png" alt="A banner in red and gold with a hammer and sickle that says 'Capitalism cannot function without slavery.'" width="200px"><img src="/img/freepalestine.png" alt="A Palestinian flag, with stripes of black, white, and green, with a red triangle from the left. On the white stripe it says 'Free Palestine'." width="200px"></p>
-                    </div>
-                </article>
-            </section>
-            <section>
-                <article>
-                    <div>
-                        <h2>latest posts:</h2>
-                        <ul>
-                            <li><a href="https://read.cass-iter-ite.com/index.php/">new recently read site</a> (created: 12/07/25)</li>
-                            <li><a href="/about/recentlyread.php">recently read</a> (last updated: 11/06/25)</li>
-                            <li><a href="/writing/stories/05.php">we both need a hand</a> [NSFW] (last updated: 07/02/25)</li>
-                            <li><a href="/writing/stories/04.php">i just need a hand</a> [NSFW mentioned but not shown] (last updated: 06/30/25)</li>
-                            <li><a href="/writing/characters/tara.php">Tara</a> (last updated: 06/30/25)</li>
-                            <li><a href="/writing/characters/">characters</a> (last updated: 06/30/25)</li>
-                            <li><a href="/writing/stories/03.php">why David hates the Romans</a> (posted: 06/23/25)</li>
-                            <li><a href="/websites/start.php">start page</a> (last updated: 02/13/25)</li>
-                            <li><a href="/websites/head.php">you should put this in your &lt;head&gt; tag</a> (last updated: 10/05/24)</li>
-                            <li><a href="/vgames/homm3.php">Heroes of Might and Magic 3</a> (last updated: 03/29/24)</li>
-                            <li><a href="/art/myartjourney.php">my art journey</a> (last updated: 02/25/24)</li>
-                            <li><a href="/about/alterhuman.php">what is "alterhuman"?</a> (last updated: 02/24/24)</li>
-                            <li><a href="/about/faves.php">Faves</a> (last updated: 01/29/24)</li>
-                        </ul>
-                    </div>
-                </article>
-            </section>
-<?php include $_SERVER['DOCUMENT_ROOT'].'/footer.php';?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="Expires" content="0">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>cassiterite</title>
+        <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    </head>
+    <body>
+        <main>
+            <p>This is a personal website of an adult and does contain some (clearly labeled) adult content, in addition to a good deal of content for general audiences. Please be sure not to view this site or its adult contents if you are underage or if adult content is disagreeable to you.</p>
+            <p class="banner"><a href="/home.php">Enter the site</a></p>
+        </main>
+    </body>
+</html>

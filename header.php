@@ -14,6 +14,6 @@
         <!-- The following needs to be inserted somewhere on the page for the player(s) to work. -->
         <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.22.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
 		<header>
-			<h1 style="display: inline-block;"><a href="/">cassiterite</a></h1>
+			<h1 style="display: inline-block;"><a href="/home.php">cassiterite</a></h1>
             <midi-player src="/music/LastSurprise.mid" sound-font style="display: inline-block; max-width: 95%;"></midi-player>
         </header>
