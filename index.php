@@ -10,9 +10,9 @@
         <link href="/style.css" rel="stylesheet" type="text/css" media="all">
     </head>
     <body>
-        <main>
+        <div class="front-main">
             <p>This is a personal website of an adult and does contain some (clearly labeled) adult content, in addition to a good deal of content for general audiences. Please be sure not to view this site or its adult contents if you are underage or if adult content is disagreeable to you.</p>
             <p class="banner"><a href="/home.php">Enter the site</a></p>
-        </main>
+        </div>
     </body>
 </html>

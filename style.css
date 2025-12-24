@@ -25,7 +25,7 @@ body > header h1 {
 body > header a {
   text-decoration: none;
 }
-body > main {
+body > main , .front-main {
   padding: 0.25em 1em;
   margin: 0.5em auto;
 }
@@ -134,7 +134,7 @@ body > footer {
   border-top: 1px solid #cc66ff;
 }
 
-body > main {
+body > main, .front-main {
   background: #ffffee;
   color: #222;
   border: 3px solid #441166;
