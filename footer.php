@@ -40,6 +40,7 @@
                 <li><a href="https://indieweb.social/@cassiterite" rel="me">mastodon</a></li>
                 <li><a href="https://www.tiktok.com/@cassiterite19">tiktok</a></li>
                 <li><a href="https://letterboxd.com/cassiterite/">letterboxd</a></li>
+                <li><a href="https://app.thestorygraph.com/profile/cassiterite">storygraph</a></li>
                 <li><a href="https://www.pinterest.com/ca55iterite/">pinterest</a></li>
                 <li><a href="https://userstyles.world/user/cassiterite">userstyles.world</a></li>
             </ul>
