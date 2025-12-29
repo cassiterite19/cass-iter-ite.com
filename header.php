@@ -6,7 +6,11 @@
         <meta http-equiv="Expires" content="0">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title><?php if($title){echo $title + " | ";}?>cassiterite</title>
+        <?php if($title) : ?>
+            <title><?php echo $title ?> | cassiterite</title>
+        <?php else : ?>
+            <title>cassiterite</title>
+        <?php endif; ?>
         <link href="/style.css" rel="stylesheet" type="text/css" media="all">
         <link rel="stylesheet" href="https://zoranadragon.neocities.org/more/oc-webring/onionring.css">
     </head>
