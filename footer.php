@@ -1,9 +1,9 @@
             <section>
                 <article>
                     <p style="text-align:center;">
-                        <a href="/"><img src="/img/88x31.png" alt="88x31 button that says cass-iter-ite."></a>
-                        <a href="/"><img src="/img/88x31-02.png" alt="a different 88x31 button that says cass-iter-ite."></a>
-                        <a href="https://badge.les.bi"><img title="enby fluid"  src="https://badge.les.bi/88x31/enby/fluid/diagonal/outset-invert.svg"></a>
+                        <a href="/"><img class="pixel" src="/img/88x31.png" alt="88x31 button that says cass-iter-ite."></a>
+                        <a href="/"><img class="pixel" src="/img/88x31-02.png" alt="a different 88x31 button that says cass-iter-ite."></a>
+                        <a href="https://badge.les.bi"><img class="pixel" title="enby fluid"  src="https://badge.les.bi/88x31/enby/fluid/diagonal/outset-invert.svg"></a>
                     </p>
                 </article>
                 <article>

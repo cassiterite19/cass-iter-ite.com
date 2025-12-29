@@ -211,3 +211,10 @@ a.hover {
 .banner a {
   color: #cc9900;
 }
+
+/* Code from https://sainthood.xyz/code/snippets/rendering-pixel-art */
+img.pixel {
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+}
