@@ -7,6 +7,12 @@
             </header>
             <section>
                 <article>
+                    <h3>fanfiction:</h3>
+                    <ul>
+                        <li><a href="/writing/stories/06.php">Finally Facin' My Waterloo</a> - The Magnus Archives (12/28/25)</li>
+                    </ul>
+                </article>
+                <article>
                     <h3><a href="/writing/characters/david.php">david</a>:</h3>
                     <ul>
                         <li><a href="/writing/stories/05.php">we both need a hand</a> [NSFW] (07/02/25)</li>
