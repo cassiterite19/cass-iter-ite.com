@@ -2,7 +2,7 @@
 <?php include $_SERVER['DOCUMENT_ROOT'].'/sidebar.php';?>
             <header>
                 <h1>hey what's up</h1>
-                <img align="right" width="100px" src="/img/avi.png" alt="A skull from the manga Berserk.">
+                <img align="right" width="100px" src="/img/wizardskull.png" alt="A skull from the manga Berserk, with a blue wizard hat and stars photoshopped on it.">
                 <p>i'm an internet weirdo you may have encountered. this here's a space for me to put information you might want to know about me, as well as share projects i've been working on and links to other places you could find me.</p>
             </header>
             <section>
