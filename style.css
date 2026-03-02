@@ -7,7 +7,7 @@ body {
   margin: 20px auto 0;
   width: 95%;
   max-width: 900px;
-  cursor: url('cursor/Normal Select.ani'), pointer;
+  cursor: url('cursor/NormalSelect.ani'), pointer;
 }
 body > header,
 body > footer {
