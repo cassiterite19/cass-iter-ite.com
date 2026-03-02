@@ -11,6 +11,10 @@
                         <h2>here's some stuff about me:</h2>
                         <p>my name is alexandra (you can call me alexi or cass if you want) early 30s, she/any pronouns, bi & enby woman, stoner, communist, loser, immortal, big nerd, crazy, heathen, <a href="/about/alterhuman.php">alterhuman</a>, doing my best.</p>
                     </div>
+                    <div>
+                        <a href="https://aconfusionofwizards.the-comic.org/"><img src="/img/acow-logo.png" alt="a wizard with a grey beard and a green robe and hat is surrounded by yellow question marks."></a>
+                        <p>I'm making a webcomic about wizards! <a href="https://aconfusionofwizards.the-comic.org/">View the comic here</a> and keep up with extra lore on <a href="https://bsky.app/profile/confusionofwizards.bsky.social">Bluesky</a> and <a href="https://www.tumblr.com/aconfusionofwizards">Tumblr</a>.</p>
+                    </div>
                     <div class="banner">
                         <h3>i am offering commissions through ko-fi!</h3>
                         <p>if you want a bespoke HTML/CSS website template for your own site for just $5, consider commissioning me!</p>
