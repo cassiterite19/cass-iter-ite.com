@@ -2,12 +2,14 @@
 * {
   box-sizing: border-box;
 }
+html {
+  cursor: url('/cursor/NormalSelect.ani'), auto;
+}
 body {
   font: 16pt/18pt Lato, Verdana, sans-serif;
   margin: 20px auto 0;
   width: 95%;
   max-width: 900px;
-  cursor: url('/cursor/NormalSelect.ani'), pointer;
 }
 body > header,
 body > footer {
