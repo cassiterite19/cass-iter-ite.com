@@ -46,6 +46,14 @@ code {
   font-size: 0.8em;
   font-style: italic;
 }
+.wizard>a {
+  display: inline-block;
+  width: 30%;
+}
+.wizard>p {
+  display: inline-block;
+  max-width: 69%;
+}
 aside {
   margin: 0;
   padding: 0.25em 1em;
