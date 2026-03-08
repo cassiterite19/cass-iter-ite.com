@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 html {
-  cursor: url('/cursor/NormalSelect.png'), auto;
+  cursor: url('/cursor/NormalSelect.gif'), auto;
 }
 body {
   font: 16pt/18pt Lato, Verdana, sans-serif;
