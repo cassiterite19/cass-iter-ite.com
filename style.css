@@ -49,10 +49,13 @@ code {
 .wizard>a {
   display: inline-block;
   width: 30%;
+  vertical-align: top;
 }
 .wizard>p {
   display: inline-block;
   max-width: 69%;
+  vertical-align: top;
+  padding-top: 5px;
 }
 aside {
   margin: 0;
