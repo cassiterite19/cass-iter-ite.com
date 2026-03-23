@@ -11,7 +11,7 @@ body {
   width: 95%;
   max-width: 900px;
 }
-a {
+a, .controls button {
   cursor: url('/cursor/LinkSelect.gif'), auto;
 }
 body > header,
