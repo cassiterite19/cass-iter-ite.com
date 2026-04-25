@@ -14,39 +14,41 @@
                     <h4><code>update.sh</code></h4>
                     <p>the first is a shell script. this kind of thing was intimidating at first, but it was actually really easy to compose. it's basically just a collection of commands i would run in the terminal anyway, so i can run this one script instead of typing all that shit.</p>
                     <blockquote><code>
-                        #!/usr/bin/env bash
-
-                        # exit when a command fails
-                        set -o errexit
-
-                        # shows each line as it's executed
-                        set -o xtrace
-
-                        # update, upgrade, dist-upgrade, autoremove: these do a full update of your system
-                        apt-get update
-                        apt-get upgrade
-                        apt-get dist-upgrade
-                        apt autoremove
-
-                        # print system info
+                        #!/usr/bin/env bash<br />
+                        <br />
+                        # exit when a command fails<br />
+                        set -o errexit<br />
+                        <br />
+                        # shows each line as it's executed<br />
+                        set -o xtrace<br />
+                        <br />
+                        # update, upgrade, dist-upgrade, autoremove: these do a full update of your system<br />
+                        apt-get update<br />
+                        apt-get upgrade<br />
+                        apt-get dist-upgrade<br />
+                        apt autoremove<br />
+                        <br />
+                        # print system info<br />
                         landscape-sysinfo
                     </code></blockquote>
                     <p>i keep it saved as <code>update.sh</code> in my root home folder and generally run it as <code>cd ~ &amp;&amp; yes | ./update.sh</code>. it is necessary to <code>chmod +x</code> this file before use, otherwise it doesn't run as a script. (<code>chmod +x</code> grants e<em>x</em>ecute permissions to the user, so you can execute the file.)</p>
+                    <h4><code>domain.conf</code></h4>
                     <p>the next is a configuration file that is commonly used in servers with Apache web server software installed, which is what i use on my VPS to display my websites. (there is also NGINX which i have used in the past, but i prefer Apache because it has some tools available that NGINX doesn't have that make managing my websites easier, like PHPMyAdmin. (i think there are PHPMyAdmin alternatives that do work with NGINX, but i don't know how to set them up and i do not want that project right now.)</p>
                     <p>this configuration file allows a website request to be served correctly. that is, when a browser accesses http://example.com, if you have successfully set up your DNS so that example.com points to your webserver, this file tells the browser, "display the files in This Folder," and other things.</p>
                     <blockquote><code>
-                        <VirtualHost *:80>
-                            ServerName your_domain.com
-                            ServerAdmin webmaster@localhost (or your email)
-                            DocumentRoot /var/www/your_domain
-                            ErrorLog /var/www/your_domain/error.log
-                            CustomLog /var/www/your_domain/access.log combined
+                        <VirtualHost *:80><br />
+                            ServerName your_domain.com<br />
+                            ServerAdmin webmaster@localhost (or your email)<br />
+                            DocumentRoot /var/www/your_domain<br />
+                            ErrorLog /var/www/your_domain/error.log<br />
+                            CustomLog /var/www/your_domain/access.log combined<br />
                         </VirtualHost>
                     </code></blockquote>
                     <p>this is a very basic configuration file. i like to start with this, because when i use <a href="https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu">Certbot</a> to set up SSL, it'll add that information to the end of this configuration file. keeping it simple makes it easier to read in the end, and in case we need to change it later that can be important.</p>
                     <p>this file is most commonly saved as <code>example.conf</code> where example is your domain. i sometimes save it as <code>example.com.conf</code> but that's just a personal quirk, particularly because i use a lot of aesthetic TLDs.</p>
                     <p>this file also lets you point the server where to put your access and error logs. this can be really helpful to know if you run into issues with your website! i use PHP and PHP-based programs for my sites, so their error logs can be really helpful to figure out what's wrong when things don't load correctly.</p>
                     <p>this file gets saved in your <code>/etc/apache2/sites-available</code> folder, edited to reflect your domain (<code>ServerName</code>) and file location (<code>DocumentRoot</code> and so on). you then must run <code>a2ensite [domain].conf</code> to enable it, and then <code>systemctl reload apache2</code> (or however your particular system reloads apache).</p>
+                    <h4><code>DigitalOcean</code></h4>
                     <p>finally i'd like to provide you with a set of links to some DigitalOcean tutorials i've found invaluable when working with my VPSes over the years. most of these give you an option at the top to change what server you're installing them for, in case you choose something other than Ubuntu.</p>
                     <ul>
                         <li><a href="https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu">Initial Server Setup with Ubuntu</a> - this will show you how to do basic stuff with your new server, like make a new user and set up the firewall.</li>
