@@ -36,13 +36,13 @@
                     <p>the next is a configuration file that is commonly used in servers with Apache web server software installed, which is what i use on my VPS to display my websites. (there is also NGINX which i have used in the past, but i prefer Apache because it has some tools available that NGINX doesn't have that make managing my websites easier, like PHPMyAdmin. (i think there are PHPMyAdmin alternatives that do work with NGINX, but i don't know how to set them up and i do not want that project right now.)</p>
                     <p>this configuration file allows a website request to be served correctly. that is, when a browser accesses http://example.com, if you have successfully set up your DNS so that example.com points to your webserver, this file tells the browser, "display the files in This Folder," and other things.</p>
                     <blockquote><code>
-                        <VirtualHost *:80><br />
+                        &lt;VirtualHost *:80&gt;<br />
                             ServerName your_domain.com<br />
                             ServerAdmin webmaster@localhost (or your email)<br />
                             DocumentRoot /var/www/your_domain<br />
                             ErrorLog /var/www/your_domain/error.log<br />
                             CustomLog /var/www/your_domain/access.log combined<br />
-                        </VirtualHost>
+                        &lt;/VirtualHost&gt;
                     </code></blockquote>
                     <p>this is a very basic configuration file. i like to start with this, because when i use <a href="https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu">Certbot</a> to set up SSL, it'll add that information to the end of this configuration file. keeping it simple makes it easier to read in the end, and in case we need to change it later that can be important.</p>
                     <p>this file is most commonly saved as <code>example.conf</code> where example is your domain. i sometimes save it as <code>example.com.conf</code> but that's just a personal quirk, particularly because i use a lot of aesthetic TLDs.</p>
