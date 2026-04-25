@@ -34,6 +34,7 @@
                     <div>
                         <h2>latest posts:</h2>
                         <ul>
+                            <li><a href="/websites/serversnippets.php">server snippets</a> (04/25/26)</li>
                             <li><a href="/writing/stories/06.php">Finally Facin' My Waterloo</a> (12/28/25)</li>
                             <li><a href="https://read.cass-iter-ite.com/index.php/">new recently read site</a> (created: 12/07/25)</li>
                             <li><a href="/about/recentlyread.php">recently read</a> (last updated: 11/06/25)</li>

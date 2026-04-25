@@ -9,6 +9,7 @@
                 <article>
                     <div>
                         <ul>
+                            <li><a href="/websites/serversnippets.php">server snippets</a> (last updates: 04/25/26)</li>
                             <li><a href="/websites/start.php">start page</a> (last updated: 02/13/25)</li>
                             <li><a href="/websites/head.php">you should put this in your &lt;head&gt; tag</a> (last updated: 10/05/24)</li>
                         </ul>
