@@ -12,7 +12,6 @@
                     <li><a href="https://books.cass-iter-ite.com">book blog</a></li>
                     <li><a href="https://cassiterite19.github.io/">website log</a></li>
                     <li><a href="https://cassiterite.atabook.org/">guestbook</a></li>
-                    <li><a href="https://cassiterite.flarum.cloud/">forum</a></li>
                     <li><a href="https://aconfusionofwizards.the-comic.org/">wizard webcomic</a></li>
 				</ul>
 			</nav>
