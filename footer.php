@@ -44,7 +44,7 @@
                 <li><a href="https://www.pinterest.com/ca55iterite/">pinterest</a></li>
                 <li><a href="https://userstyles.world/user/cassiterite">userstyles.world</a></li>
             </ul>
-            <p><a href="https://onlinesequencer.net/1456420">Midi file from OnlineSequencer.net</a> and <a href="https://github.com/cifkao/html-midi-player">midi player from cifkao</a></p>
+            <p><a href="https://onlinesequencer.net/1456420">Midi file from OnlineSequencer.net</a> and <a href="https://github.com/cifkao/html-midi-player">midi player from cifkao</a>, <a href="https://vgen.co/Naspyta/product/the-amazing-digital-circus-kinger-cursor-pack/f7331d2a-9252-4e59-86ba-c37874fe3c56">cursors</a> from <a href="https://vgen.co/Naspyta">Naspyta</a></p>
         </footer>
     </body>
 </html>
